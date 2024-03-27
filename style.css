@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image:url("");
+    background-position: center;
+    background-size: cover;
+
+}
+h1{
+    color: rgb(red, green, blue);
+}
+#myCanvas{
+    background-color: rgb(red, green, blue);
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: black;
+    color: aqua;
+}
